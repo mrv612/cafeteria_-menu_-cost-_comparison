@@ -46,3 +46,8 @@ The script generates a formatted table showing the overpriced items and their pr
 The script also provides a clear summary and suggestions for cost adjustments, making the results easy to understand and act upon.
 
 ![Analysis Summary]
+| Item     | Cafeteria Price (₹) | Market Price (₹) | Price Diff (₹) | % Difference |
+| -------- | ------------------- | ---------------- | -------------- | ------------ |
+| Samosa   | 20                  | 10 (avg)         | +10            | +100%        |
+| Sandwich | 50                  | 40 (assumed)     | +10            | +25%         |
+| Juice    | 30                  | 25 (assumed)     | +5             | +20%         |
